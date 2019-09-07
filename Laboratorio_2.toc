@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {0.1}Introducci\IeC {\'o}n}{2}
+\contentsline {section}{\numberline {0.2}Simulaci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {0.3}Generador de n\IeC {\'u}meros aleatorios Congruencial Lineal (GCL)}{7}
+\contentsline {section}{\numberline {0.4}Paseo Aleatorio}{11}
